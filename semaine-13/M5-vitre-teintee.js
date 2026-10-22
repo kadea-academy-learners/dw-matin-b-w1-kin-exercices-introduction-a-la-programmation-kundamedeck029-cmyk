@@ -35,8 +35,7 @@ Pourquoi var est-il banni du code moderne ? Cherche ce que sont la portée de fo
 
 // ✍️ Ton code ici 👇 (règles : const/let, ===, gabarits littéraux, fonctions fléchées, camelCase)
 
-// Mes prédictions (avant d'exécuter) :
-//
+
 
 const ville = 'Kinshasa';
 if (true) {
